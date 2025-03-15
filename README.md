@@ -23,11 +23,11 @@ To run this project locally, you need:
 ### Steps to Run Locally
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/AnkitKumarMishra5/netflix-clone-desktop-ui
+   git clone https://github.com/AnkitKumarMishra5/netflix-ui-clone
    ```
 2. **Navigate to the project folder:**
    ```sh
-   cd netflix-clone-desktop-ui
+   cd netflix-ui-clone
    ```
 3. **Install dependencies:**
    ```sh
